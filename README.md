@@ -1,6 +1,6 @@
 
 Hi 👋  I’m David Blancos a software developer student about to
-finish the Informatic engineer bachelors degree, specialized but not limited to NET applications with two
+finish the Informatic engineer bachelors degree, specialized but not limited to NET applications with more than two
 years of professional experience.
 
 Im interested in:
