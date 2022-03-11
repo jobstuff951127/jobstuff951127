@@ -1,6 +1,5 @@
 
-Hi 👋  I’m David Blancos a software developer student about to
-finish the Informatic engineer bachelors degree, specialized but not limited to NET applications with more than two
+Hi 👋  I’m David Blancos a software developer engineer specialized but not limited to NET applications with more than three
 years of professional experience.
 
 Im interested in:
@@ -8,11 +7,10 @@ Im interested in:
 ✨AWS/Azure
 ✨Angular
 ✨React
-✨Blazor
+✨Next.js
 ✨Flutter
 ✨TypeScript
 ✨Docker
 ✨Design patterns
 ✨TDD
-   
-I’m currently learning AWS, Design patterns and TDD. 
+  
