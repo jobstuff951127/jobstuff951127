@@ -1,16 +1,17 @@
 
-Hi 👋  I’m David Blancos a software developer engineer specialized but not limited to NET applications with more than three
+Hi 👋  I’m David Blancos a software developer engineer specialized but not limited to NET applications with more than four
 years of professional experience.
 
-Im interested in:
+This repos were developed just for the sake of it and are not proffesional work just some coding for fun to learn new techs.
+Some of the techs that you can find here are...
 
-✨AWS/Azure
-✨Angular
-✨React
-✨Next.js
-✨Flutter
-✨TypeScript
-✨Docker
-✨Design patterns
-✨TDD
+✨SignalR
+✨Vue.js - Vue Components - Vue router - JWT
+✨Entity Framework
+✨Dapper
+✨Web services
+✨Identity
+✨Vuex
+✨Vuetify
+✨Among others
   
