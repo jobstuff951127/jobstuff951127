@@ -6,7 +6,7 @@ This repos were developed just for the sake of it and are not proffesional work 
 Some of the techs that you can find here are...
 
 ✨SignalR
-✨Vue.js - Vue Components - Vue router - JWT
+✨Vue.js
 ✨Entity Framework
 ✨Dapper
 ✨Web services
@@ -14,4 +14,5 @@ Some of the techs that you can find here are...
 ✨Vuex
 ✨Vuetify
 ✨Among others
+✨JWT
   
