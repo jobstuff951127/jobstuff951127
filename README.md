@@ -13,6 +13,6 @@ Some of the techs that you can find here are...
 ✨Identity
 ✨Vuex
 ✨Vuetify
-✨Among others
 ✨JWT
+✨Among others
   
