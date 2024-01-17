@@ -1,6 +1,6 @@
 👋 Hi, I'm David Blancos!
 
-I'm a passionate and results-driven software engineer with over 5 years of experience in the IT industry. My journey began with a deep fascination for technology, and it has since evolved into a rewarding career.
+I'm a passionate and results-driven software engineer. My journey began with a deep fascination for technology, and it has since evolved into a rewarding career.
 
 🚀 Technical Expertise: I specialize in building robust and scalable software solutions using a tech stack that includes .NET, C#, SQL Server, Vue.js, Angular, React, among others and cloud platforms like Azure and AWS. I thrive on tackling complex challenges and turning them into elegant, user-friendly applications.
 
